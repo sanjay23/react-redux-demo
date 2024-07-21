@@ -1,0 +1,6 @@
+export const ActionTypes = {
+    UPDATE_VENDOR: "UPDATE_VENDOR",
+    GET_VENDOR: 'GET_VENDOR',
+    ADD_VENDOR: 'ADD_VENDOR',
+    DELETE_VENDOR: 'DELETE_VENDOR',
+};
